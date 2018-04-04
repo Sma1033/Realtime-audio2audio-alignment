@@ -4,10 +4,14 @@ This repository contains the real-time audio to audio alignment program which tr
 
 ## Prerequisites
 - Windows platform (Linux & OSX is not guaranteed)
-- Tkinter (https://docs.python.org/3/library/tk.html)
 - Python 2.7 
 - Numpy
-- Librosa (https://librosa.github.io/)
+- Librosa ([here](https://librosa.github.io/))
+- Tkinter ([here](https://docs.python.org/3/library/tk.html))
+- PyAudio ([here](http://people.csail.mit.edu/hubert/pyaudio/))
+- dill ([here](https://github.com/uqfoundation/dill))
+- ast ([here](https://docs.python.org/2/library/ast.html))
+
 
 ## Run the program
 - Connect the audio output of your computer to both speaker and audio interface input simultaneously.
@@ -15,6 +19,8 @@ This repository contains the real-time audio to audio alignment program which tr
 ```bash
 python main.py
 ```
+- Press "p" key on GUI window to start realtime alignment process
+- check alignment result file "alignment_result.txt" under same directory with main.py
 
 ## Demo Video
 - Demo video is available on youtube: [here](https://youtu.be/04JtjkpsU_0)
