@@ -4,7 +4,8 @@ This repository contains the real-time audio to audio alignment program which tr
 
 ## Prerequisites
 - Windows platform (Linux & OSX is not guaranteed)
-- Python 2.7
+- tkinter (https://docs.python.org/3/library/tk.html)
+- Python 2.7 
 - Numpy
 - Librosa (https://librosa.github.io/)
 
