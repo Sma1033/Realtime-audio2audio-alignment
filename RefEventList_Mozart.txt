@@ -1,0 +1,1549 @@
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Ton_tri	3	7	10	10	12	8	3	
+Ton_tri	3	7	10	10	10	7	3	
+Ton_tri	3	7	10	10	8	5	3	
+Ton_tri	3	7	10	10	7	3	3	
+Ton_tri	3	7	10	10	7	3	3	
+Ton_tri	3	7	10	10	7	3	3	
+Ton_tri	3	7	10	10	7	3	
+Ton_tri	3	7	10	10	10	7	
+Ton_tri	2	5	10	10	10	7	10	
+Ton_tri	2	5	10	10	8	5	10	
+Ton_tri	2	5	10	10	7	3	10	
+Ton_tri	2	5	10	10	5	2	10	
+Ton_tri	2	5	10	10	5	2	
+Ton_tri	2	5	10	10	5	2	10	
+Ton_tri	2	5	10	10	10	
+Ton_tri	2	5	10	10	8	
+Ton_tri	3	7	10	10	3	7	
+Ton_tri	3	7	10	10	3	10	7	
+Ton_tri	3	7	10	10	5	10	7	
+Ton_tri	3	7	10	10	5	10	7	
+Ton_tri	3	7	10	10	7	10	
+Ton_tri	3	7	10	10	7	10	
+Ton_tri	2	5	10	8	2	10	5	
+Ton_tri	2	5	10	8	2	10	5	
+Ton_tri	3	7	10	7	3	10	3	
+Ton_tri	3	7	10	7	3	10	3	
+Ton_tri	2	5	10	8	5	10	10	
+Ton_tri	2	5	10	7	3	10	10	
+Ton_tri	2	5	10	5	2	10	10	
+Ton_tri	2	5	10	7	3	10	10	
+Ton_tri	2	5	10	5	2	10	
+Ton_tri	2	5	10	5	2	10	10	
+Ton_tri	2	5	10	10	
+Ton_tri	2	5	10	8	
+Ton_tri	2	5	10	7	
+Ton_tri	2	5	10	5	
+Ton_tri	3	7	10	8	12	3	
+Ton_tri	3	7	10	7	10	3	
+Ton_tri	3	7	10	5	8	10	3	
+Ton_tri	3	7	10	3	7	10	3	
+Ton_tri	3	7	10	3	7	3	
+Ton_tri	3	7	10	3	7	7	
+Ton_tri	3	7	10	3	7	10	
+Ton_tri	3	7	10	7	10	10	
+Ton_tri	2	5	10	7	10	10	
+Ton_tri	2	5	10	5	8	10	
+Ton_tri	2	5	10	3	7	10	10	
+Ton_tri	2	5	10	2	5	10	10	
+Ton_tri	2	5	10	2	5	2	
+Ton_tri	2	5	10	2	5	5	
+Ton_tri	2	5	10	10	
+Ton_tri	2	5	10	8	
+Ton_tri	3	7	10	3	3	7	12	
+Ton_tri	3	7	10	5	3	7	12	
+Ton_tri	3	7	10	3	3	7	12	
+Ton_tri	2	5	10	2	3	7	12	
+Ton_tri	2	5	10	12	3	7	12	
+Ton_tri	5	9	12	10	3	3	12	
+Ton_tri	5	9	12	9	3	3	12	
+Ton_tri	2	5	10	10	5	2	10	
+Ton_tri	2	5	10	10	2	10	10	
+Ton_tri	2	5	10	10	3	12	10	
+Ton_tri	2	5	10	5	2	10	
+Ton_tri	2	5	10	7	3	10	
+Ton_tri	2	5	10	8	5	10	
+Ton_tri	2	5	10	7	3	10	
+Ton_tri	2	5	10	10	5	8	
+Ton_tri	2	5	10	8	5	8	
+Ton_tri	2	5	10	7	7	8	
+Ton_tri	2	5	10	5	8	8	
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Ins	1		
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	DM	
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Pitch1
+Ton_tri	3	7	10	10	12	8	3	
+Ton_tri	3	7	10	10	10	7	3	
+Ton_tri	3	7	10	10	8	5	3	
+Ton_tri	3	7	10	10	7	3	3	
+Ton_tri	3	7	10	10	7	3	3	
+Ton_tri	3	7	10	10	7	3	3	
+Ton_tri	3	7	10	10	7	3	
+Ton_tri	3	7	10	10	10	7	
+Ton_tri	2	5	10	10	10	7	10	
+Ton_tri	2	5	10	10	8	5	10	
+Ton_tri	2	5	10	10	7	3	10	
+Ton_tri	2	5	10	10	5	2	10	
+Ton_tri	2	5	10	10	5	2	
+Ton_tri	2	5	10	10	5	2	10	
+Ton_tri	2	5	10	10	10	
+Ton_tri	2	5	10	10	8	
+Ton_tri	3	7	10	10	3	7	
+Ton_tri	3	7	10	10	3	10	7	
+Ton_tri	3	7	10	10	5	10	7	
+Ton_tri	3	7	10	10	5	10	7	
+Ton_tri	3	7	10	10	7	10	
+Ton_tri	3	7	10	10	7	10	
+Ton_tri	2	5	10	8	2	10	5	
+Ton_tri	2	5	10	8	2	10	5	
+Ton_tri	3	7	10	7	3	10	3	
+Ton_tri	3	7	10	7	3	10	3	
+Ton_tri	2	5	10	8	5	10	10	
+Ton_tri	2	5	10	7	3	10	10	
+Ton_tri	2	5	10	5	2	10	10	
+Ton_tri	2	5	10	7	3	10	10	
+Ton_tri	2	5	10	5	2	10	
+Ton_tri	2	5	10	5	2	10	10	
+Ton_tri	2	5	10	10	
+Ton_tri	2	5	10	8	
+Ton_tri	2	5	10	7	
+Ton_tri	2	5	10	5	
+Ton_tri	3	7	10	8	12	3	
+Ton_tri	3	7	10	7	10	3	
+Ton_tri	3	7	10	5	8	10	3	
+Ton_tri	3	7	10	3	7	10	3	
+Ton_tri	3	7	10	3	7	3	
+Ton_tri	3	7	10	3	7	7	
+Ton_tri	3	7	10	3	7	10	
+Ton_tri	3	7	10	7	10	10	
+Ton_tri	2	5	10	7	10	10	
+Ton_tri	2	5	10	5	8	10	
+Ton_tri	2	5	10	3	7	10	10	
+Ton_tri	2	5	10	2	5	10	10	
+Ton_tri	2	5	10	2	5	2	
+Ton_tri	2	5	10	2	5	5	
+Ton_tri	2	5	10	10	
+Ton_tri	2	5	10	8	
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Ins	2		
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	AM	
+Ton_hex	DM	
+Ton_tri	3	7	10	3	10	3	
+Ton_tri	3	7	10	7	3	3	
+Ton_tri	3	7	10	10	7	3	
+Ton_tri	3	7	10	7	3	3	
+Ton_tri	3	7	10	3	10	3	
+Ton_tri	3	7	10	7	3	3	
+Ton_tri	3	7	10	10	7	3	
+Ton_tri	3	7	10	7	3	3	
+Ton_tri	3	7	10	3	10	3	
+Ton_tri	3	7	10	7	3	3	
+Ton_tri	3	7	10	10	7	3	
+Ton_tri	3	7	10	7	3	3	
+Ton_tri	3	7	10	10	3	10	1	
+Ton_tri	3	7	10	10	7	3	1	
+Ton_tri	3	7	10	10	10	7	1	
+Ton_tri	3	7	10	10	7	3	1	
+Ton_tri	3	7	10	10	3	10	1	
+Ton_tri	3	7	10	10	7	3	1	
+Ton_tri	3	7	10	10	10	7	1	
+Ton_tri	3	7	10	10	7	3	1	
+Ton_tri	3	7	10	8	3	10	1	
+Ton_tri	3	7	10	7	7	3	1	
+Ton_tri	3	7	10	5	10	7	1	
+Ton_tri	3	7	10	3	7	3	1	
+Ton_tri	3	7	10	8	3	12	12	
+Ton_tri	3	7	10	8	8	3	12	
+Ton_tri	3	7	10	3	12	8	12	
+Ton_tri	3	7	10	3	8	3	12	
+Ton_tri	3	7	10	3	3	12	12	
+Ton_tri	3	7	10	3	8	3	12	
+Ton_tri	3	7	10	3	12	8	12	
+Ton_tri	3	7	10	3	8	3	12	
+Ton_tri	3	7	10	3	12	12	
+Ton_tri	3	7	10	8	3	12	
+Ton_tri	3	7	10	3	12	8	12	
+Ton_tri	3	7	10	3	8	3	12	
+Ton_tri	3	8	12	1	5	10	10	
+Ton_tri	3	8	12	1	10	10	10	
+Ton_tri	3	8	12	1	1	10	10	
+Ton_tri	3	8	12	1	5	10	10	
+Ton_tri	3	8	12	1	3	10	10	
+Ton_tri	3	8	12	1	7	10	10	
+Ton_tri	3	8	12	10	1	10	10	
+Ton_tri	3	8	12	10	7	10	10	
+Ton_tri	3	8	12	7	3	7	3	
+Ton_tri	3	8	12	7	7	7	3	
+Ton_tri	3	8	12	1	10	7	3	
+Ton_tri	3	8	12	1	10	7	3	
+Ton_tri	3	8	12	1	8	8	8	
+Ton_tri	3	8	12	12	12	8	8	
+Ton_tri	3	8	12	5	3	8	8	
+Ton_tri	3	8	12	3	12	8	8	
+Ton_tri	3	8	12	3	8	8	8	
+Ton_tri	3	8	12	3	12	8	8	
+Ton_tri	3	8	12	3	3	8	8	
+Ton_tri	3	8	12	3	12	8	8	
+Ton_tri	3	8	12	8	8	12	
+Ton_tri	3	8	12	3	8	12	
+Ton_tri	3	8	12	6	8	8	12	
+Ton_tri	3	8	12	6	3	8	12	
+Ton_tri	1	5	8	5	5	8	1	
+Ton_tri	1	5	8	1	5	8	1	
+Ton_tri	1	5	8	1	5	1	
+Ton_tri	1	5	8	12	3	5	1	
+Ton_tri	1	5	8	10	1	5	1	
+Ton_tri	1	5	8	8	12	5	2	
+Ton_tri	3	8	12	8	12	3	3	
+Ton_tri	3	8	12	10	1	3	3	
+Ton_tri	3	8	12	8	12	3	3	
+Ton_tri	3	8	12	10	1	3	3	
+Ton_tri	3	8	12	8	12	3	3	
+Ton_tri	3	8	12	10	1	3	3	
+Ton_tri	3	8	12	8	12	3	3	
+Ton_tri	3	8	12	10	1	3	3	
+Ton_tri	3	8	12	8	12	3	3	
+Ton_tri	3	8	12	10	1	3	3	
+Ton_tri	3	8	12	8	12	3	3	
+Ton_tri	3	8	12	10	1	3	3	
+Ton_tri	3	8	12	8	12	3	3	
+Ton_tri	3	8	12	10	1	3	3	
+Ton_tri	3	8	12	7	10	
+Ton_tri	3	8	12	8	12	
+Ton_tri	3	8	12	7	10	
+Ton_tri	3	8	12	5	1	
+Ton_tri	3	8	12	3	12	
+Ton_tri	3	8	12	1	10	
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Pitch2
+Ton_tri	3	8	12	3	5	1	8	
+Ton_tri	3	8	12	3	3	12	8	
+Ton_tri	3	8	12	3	1	10	8	
+Ton_tri	3	8	12	3	12	8	8	
+Ton_tri	3	8	12	3	12	8	8	
+Ton_tri	3	8	12	3	12	8	8	
+Ton_tri	3	8	12	3	12	8	
+Ton_tri	3	8	12	3	3	12	
+Ton_tri	3	7	10	3	3	12	3	
+Ton_tri	3	7	10	3	1	10	3	
+Ton_tri	3	7	10	3	12	8	3	
+Ton_tri	3	7	10	3	10	7	3	
+Ton_tri	3	7	10	3	10	7	3	
+Ton_tri	3	7	10	3	10	7	3	
+Ton_tri	3	7	10	3	3	
+Ton_tri	3	7	10	3	1	
+Ton_tri	3	8	12	3	8	3	12	
+Ton_tri	3	8	12	1	7	3	10	
+Ton_tri	3	8	12	12	8	3	8	
+Ton_tri	3	7	10	1	10	3	3	
+Ton_tri	3	7	10	12	8	3	3	
+Ton_tri	3	7	10	10	7	3	3	
+Ton_tri	3	7	10	12	8	3	3	
+Ton_tri	3	7	10	10	7	3	3	
+Ton_tri	3	7	10	10	7	3	3	
+Ton_tri	3	7	10	3	
+Ton_tri	3	7	10	1	
+Ton_tri	3	7	10	12	
+Ton_tri	3	7	10	10	
+Ton_tri	3	8	12	1	5	8	
+Ton_tri	3	8	12	12	3	8	
+Ton_tri	3	8	12	10	1	12	8	
+Ton_tri	3	8	12	8	12	12	8	
+Ton_tri	3	8	12	8	12	8	
+Ton_tri	3	8	12	8	12	12	
+Ton_tri	3	8	12	8	12	3	
+Ton_tri	3	8	12	12	3	3	
+Ton_tri	3	7	10	12	3	3	
+Ton_tri	3	7	10	10	1	3	
+Ton_tri	3	7	10	8	12	3	3	
+Ton_tri	3	7	10	7	10	3	3	
+Ton_tri	3	7	10	7	10	7	
+Ton_tri	3	7	10	7	10	10	
+Ton_tri	3	7	10	3	
+Ton_tri	3	7	10	1	
+Ton_tri	3	8	12	8	8	12	5	
+Ton_tri	3	8	12	10	8	12	5	
+Ton_tri	3	8	12	8	8	12	5	
+Ton_tri	3	8	12	7	8	12	5	
+Ton_tri	3	8	12	5	8	12	5	
+Ton_tri	2	5	10	3	8	8	5	
+Ton_tri	2	5	10	2	8	8	5	
+Ton_tri	3	7	10	3	7	10	3	
+Ton_tri	3	7	10	3	7	3	3	
+Ton_tri	3	7	10	3	8	5	3	
+Ton_tri	3	7	10	10	7	3	
+Ton_tri	3	7	10	12	8	3	
+Ton_tri	3	7	10	1	10	3	
+Ton_tri	3	7	10	12	8	3	
+Ton_tri	3	7	10	3	12	1	
+Ton_tri	3	7	10	1	10	1	
+Ton_tri	3	7	10	12	8	1	
+Ton_tri	3	7	10	10	7	1	
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Ins	3		
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Loud	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	CM	
+Ton_hex	CM	
+Ton_hex	CM	
+Ton_hex	CM	
+Ton_hex	CM	
+Ton_hex	CM	
+Ton_hex	CM	
+Ton_hex	CM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	CM	
+Ton_hex	CM	
+Ton_hex	CM	
+Ton_hex	CM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	GM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	DM	
+Ton_hex	GM	
+
+
+
+
+
+
+
+
+
+
